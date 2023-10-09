@@ -1,0 +1,12 @@
+#IDEA files
+.idea/
+captura/*.txt
+recursos/estadoBloqueado.png
+reportes/
+recursos/resultado.png
+#Byte-compiled / optimized 
+__pycache__/
+#Virtual Enviroment/Dependencies
+venv/
+#Debug
+debug.log
